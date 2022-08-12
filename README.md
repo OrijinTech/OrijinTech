@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OrijinTech
 - 👀 I’m interested in AI, Robotics, and of course chicken wings :P
-- 🌱 I’m currently learning NLP, NLG, ML, and so much other...
+- 🌱 I’m currently learning: how to write industrial level code
 - 💞️ I’m looking to collaborate on anywhere that needs me.
 - 📫 How to reach me: yjin5@wpi.edu
 <!---
