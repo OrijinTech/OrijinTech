@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OrijinTech
+- 👋 Hi, I’m @OrijinTech, you can find my blog here: https://dev.to/ghooul
 - 👀 I’m interested in AI, Robotics, and of course chicken wings :P
 - 🌱 I’m currently learning: how to write industrial level code
 - 💞️ I’m looking to collaborate on anywhere that needs me.
