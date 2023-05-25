@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OrijinTech, you can find my blog here: https://dev.to/ghooul
+- 👋 Hi, I’m Ghooul(香菇), you can find my blog here: https://dev.to/ghooul
 - 👀 I’m interested in AI, Robotics, Software development, iOS development and of course Anime fan :P
 - 🌱 My main techstack is SWIFT(Storyboard), Python, Google Cloud Services
 - 📫 How to reach me: yongxiangj1999@gmail.com
