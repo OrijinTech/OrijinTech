@@ -1,3 +1,4 @@
+AI and Software Developer at Porsche Engineering
 - 👋 Hi, I’m Ghooul(香菇), you can find my blog here: https://dev.to/ghooul
 - 👀 I’m interested in AI, Robotics, Software development, iOS development and of course Anime fan :P
 - 🌱 My main techstack is SWIFT(Storyboard), Python, Google Cloud Services
